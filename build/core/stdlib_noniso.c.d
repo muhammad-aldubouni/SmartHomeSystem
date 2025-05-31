@@ -1,0 +1,24 @@
+/home/hb/files/projects/esp/esp32/home-system/build/core/stdlib_noniso.c.o: \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/cores/esp32/stdlib_noniso.c \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/stdlib.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/machine/ieeefp.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/_ansi.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/newlib.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/sys/config.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/sys/features.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/esp32/xtensa/config/core-isa.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/sys/reent.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/_ansi.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/sys/_types.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/machine/_types.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/machine/_default_types.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/sys/lock.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/sys/cdefs.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/machine/stdlib.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/alloca.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/string.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/sys/string.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/stdint.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/sys/_intsup.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/newlib/math.h \
+ /home/hb/.arduino15/packages/esp32/hardware/esp32/1.0.6/cores/esp32/stdlib_noniso.h

@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..,../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32:PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none",
+  "hardwareFolders": "/home/hb/.arduino15/packages",
+  "otherLibrariesFolders": "/home/hb/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/hb/files/projects/esp/esp32/home-system"
+}

@@ -1,0 +1,7 @@
+#line 1 "/home/hb/files/projects/esp/esp32/home-system/.vscode/settings.json"
+{
+    "files.associations": {
+        "functional": "cpp",
+        "type_traits": "cpp"
+    }
+}
